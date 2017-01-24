@@ -1,5 +1,5 @@
 var fs = require('fs');
-var xlsx = require('xlsx');
+var xlsx = require('xlsx_buffer');
 var cvcsv = require('csv');
 
 exports = module.exports = XLSX_json;
