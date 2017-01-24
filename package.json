@@ -1,0 +1,22 @@
+{
+  "name": "xlsx-buffer_json",
+  "version": "0.2.5",
+  "description": "Convert xlsx to json with optional option to lowerCase the excel headers (Credits DataGarage Fork)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahil471/node-xlsx-json.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "0.7.6-g",
+    "csv": "~0.3.6"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~3.1.2"
+  }  
+}
