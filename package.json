@@ -1,6 +1,6 @@
 {
   "name": "xlsx_buffer_json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert xlsx buffer to json ",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   
   "license": "MIT",
   "dependencies": {
-    "xlsx_buffer": "1.0.0",
+    "xlsx_buffer": "1.0.1",
     "csv": "~0.3.6"
   }
  }
